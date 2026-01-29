@@ -26,10 +26,12 @@ CTまたはMRIの画像系列データ（DICOM形式）を読み込み、3断面
 * **画像表示と操作**:
   
 **3断面表示**: Axial（原画像）を必ず表示しつつ、Sagittal、Coronalを同時に表示・切り替え可能です 。
+<img src="3gamen.png" width="100">
 
 
 
 **スライダー操作**: Window Width (WW), Window Level (WL), スライス画像をスライダで直感的に変更できます 。
+<img src="suraida-.png" width="100">
 
  
 **スライス番号**: 画像上に現在のスライス番号を表示します 。
@@ -60,6 +62,7 @@ DICOMヘッダ情報の取得表示 :
 
 1. 
 **データの読み込み**: 画面の「DICOMフォルダを選択」ボタンを押し、CTデータ（.dcmファイル群）が含まれるフォルダを選択します 。
+<img src="sentaku.png" width="100">
 
 
 2. 
